@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<releases>
+    <release>
+        <vsCode>1</vsCode>
+        <vsName>1.0</vsName>
+        <vsInfo>version-alpha</vsInfo>
+    </release>
+
+    <release>
+        <vsCode>2</vsCode>
+        <vsName>1.1</vsName>
+        <vsInfo>version-alpha</vsInfo>
+    </release>
+</releases>
